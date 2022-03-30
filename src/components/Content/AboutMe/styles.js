@@ -61,6 +61,18 @@ export const MainContainer = styled.div`
             word-spacing: 0.4rem;
             line-height: 2rem;
         }
+        >p >span:nth-child(1):hover {
+            color: #9046CF;
+        }
+        >p >span:nth-child(2):hover {
+            color: #F487B6;
+        }
+        >p >span:nth-child(3):hover {
+            color: #FF4B1F;
+        }
+        >p >span:nth-child(4):hover {
+            color: #CC59D2;
+        }
     }
 `;
 

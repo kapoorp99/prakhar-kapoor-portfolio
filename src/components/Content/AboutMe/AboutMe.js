@@ -25,7 +25,7 @@ function AboutMe() {
         <>
             <MainContainer>
                 <div className='container__left'>
-                    <img src={PrakharKapoorImage} alt="Prakhar Kapoor" />
+                    <img src={"https://ik.imagekit.io/q8qsfnr9wag/1648661642726_0o-38qi0y.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648661727437"} alt="Prakhar Kapoor" />
                     <div className="social_connects">
                         <a href="https://www.github.com/kapoorp99"><img src={github_social_icon} alt="social links" loading="lazy" /></a>
                         <a href="https://www.linkedin.com/in/kp99"><img src={linkedin_social_icon} alt="social links" loading="lazy" /></a>
@@ -34,9 +34,10 @@ function AboutMe() {
                 </div>
                 <div className='container__right'>
                     <p>
-                        Hi! I am Prakhar Kapoor, a web developer engaged in the development of World Wide Web Applications.
-                        Doing stuff with computers and technology have been my passion since childhood.
-                        I enjoy developing beautiful and functional websites.
+                        <span>Hi! I am Prakhar Kapoor, a web developer</span>
+                        <span>engaged in the development of World Wide Web Applications.</span>
+                        <span>Doing stuff with computers and technology have been my passion since childhood. I</span>
+                        <span>enjoy developing beautiful and functional websites.</span>
                     </p>
                 </div>
             </MainContainer>
