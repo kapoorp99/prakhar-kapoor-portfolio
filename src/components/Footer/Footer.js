@@ -8,7 +8,7 @@ function Footer() {
             {/* <FooterTop></FooterTop> */}
             <FooterBottom>
                 <div>
-                    <span><Copyright /> 2021</span>
+                    <span><Copyright /> 2022</span>
                     <span>Designed candidly by Prakhar Kapoor</span>
                     <span>ALL RIGHTS RESERVED</span>
                 </div>
