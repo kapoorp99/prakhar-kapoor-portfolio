@@ -25,6 +25,7 @@ function ContactMe() {
     return (
         <MainContainer>
             <form onSubmit={handleSubmit}>
+            <lottie-player src="https://assets1.lottiefiles.com/datafiles/7JozmEN9dibUFg4/data.json"  background="white"  speed="1" style={{width:"300px",height:"300px",borderRadius:"25"}} loop autoplay></lottie-player>
                 <h1>Get in Touch</h1>
                 <h2>Want to get in touch? I will love to hear from you. Here's how you can reach me.... </h2>
                 <input
