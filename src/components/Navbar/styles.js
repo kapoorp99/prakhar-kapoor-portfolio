@@ -17,6 +17,7 @@ export const StyledNavLink = styled(NavLink)`
     font-size: large;
     font-weight: 400;
     color: #ffffff;
+    transition: all 0.5s;
     :hover{
         transform: scale(0.8);
         border: 2px solid #ffffff;
